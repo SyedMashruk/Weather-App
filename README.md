@@ -7,7 +7,7 @@
 
 ![screenshot_2](https://github.com/SyedMashruk/Weather-App/blob/main/Screenshots/22.png)
 
-![screenshot_2](https://github.com/SyedMashruk/Weather-App/blob/main/Screenshots/33.png)
+![screenshot_3](https://github.com/SyedMashruk/Weather-App/blob/main/Screenshots/33.png)
 
 ## Project Information
 **Project Title:** Weather App<br>
